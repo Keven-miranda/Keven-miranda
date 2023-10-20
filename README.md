@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Keven-miranda
+- 👀 I’m interested in a job opportunity
+- 🌱 I’m currently learning Outsystems, JavaScript, Css, Html
+- 📫 How to reach me vkeven87@gmail.com
